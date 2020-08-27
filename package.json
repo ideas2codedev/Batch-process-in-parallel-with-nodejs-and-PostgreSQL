@@ -1,14 +1,14 @@
 {
   "name": "batchwithnodejs",
   "version": "1.0.0",
-  "description": "Batch process records in parallel with nodejs",
+  "description": "Batch process in parallel with nodejs and PostgreSQL",
   "main": "batch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irenteria0617/batch-process-records-in-parallel-with-nodejs.git"
+    "url": "git+https://github.com/ideas2codeweb/Batch-process-in-parallel-with-nodejs-and-PostgreSQL.git"
   },
   "keywords": [
     "nodejs",
@@ -23,9 +23,9 @@
   "author": "irenteria0617@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/irenteria0617/batch-process-records-in-parallel-with-nodejs/issues"
+    "url": "https://github.com/ideas2codeweb/Batch-process-in-parallel-with-nodejs-and-PostgreSQL/issues"
   },
-  "homepage": "https://github.com/irenteria0617/batch-process-records-in-parallel-with-nodejs#readme",
+  "homepage": "https://github.com/ideas2codeweb/Batch-process-in-parallel-with-nodejs-and-PostgreSQL#readme",
   "dependencies": {
     "async": "^3.1.0",
     "pg": "^7.12.1"
