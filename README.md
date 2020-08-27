@@ -24,7 +24,7 @@ Each row has a **is_processed** field to indicate if it has been **processed** o
 
 **Clone** this repository
 
-    git clone https://github.com/irenteria0617/batch-process-records-in-parallel-with-nodejs.git
+    git clone https://github.com/ideas2codeweb/Batch-process-in-parallel-with-nodejs-and-PostgreSQL.git
 
 Move to **root folder** and run:
 
