@@ -1,12 +1,8 @@
 # Batch in parallel process with Nodejs and PostgreSQL
 
-![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/Batch-process-in-parallel-with-nodejs-and-PostgreSQL2.jpg)
+![enter image description here](https://user-images.githubusercontent.com/9513390/129836468-e66a1536-482f-4368-9302-7ccf890c474f.jpg)
 
 Hi! Let's code a parallel process using **Nodejs** and **ProstgreSQL**.  Save time and get the best performance of our server,
-
-## Sponsor
-
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/10/bar.fw_.png)](http://adf.ly/23757721/www.ideas2code.io)
 
 ## Analysis
 Let's assume there are **1,000,000** rows in a **postgreSQL** table need to be processed using **nodejs**. 
